@@ -11,6 +11,8 @@
     "url" : "https://docs.google.com/spreadsheets/d/1nX9EnLjKKVUHnv5Iwtcvwt8l-oc3qcytVxxPrPXk3Yc/export?format=tsv",
     "sourceTaxonName": "Homo sapiens",
     "sourceTaxonId" : "NCBI:9606",
+    "sourceBodyPartName" : "hand",
+    "sourceBodyPartId" : "http://purl.obolibrary.org/obo/UBERON_0002398",
     "interactionTypeName": "interactsWith",
     "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002437",
     "dcterms:bibliographicCitation" : "Laura van der Jeught & Quentin Groom. 2021. Observations of humans handling bats with gloves or bare hands.",
