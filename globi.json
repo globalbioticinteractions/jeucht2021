@@ -17,20 +17,20 @@
     "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002437",
     "dcterms:bibliographicCitation" : "Laura van der Jeught & Quentin Groom. 2021. Observations of humans handling bats with gloves or bare hands.",
     "delimiter" : "\t",
-    "headerRowCount" : 0,
+    "headerRowCount" : 1,
     "null" : [ "" ],
     "tableSchema" : {
       "columns" : [ {
         "name" : "sourceBodyPartName",
-        "titles" : "glove",
+        "titles" : "gloveOrHand",
         "datatype" : "string"
       }, {
         "name" : "targetOccurrenceId",
-        "titles" : "https://www.inaturalist.org/observations/58153447",
+        "titles" : "observation",
         "datatype" : "string"
       }, {
         "name" : "http://rs.tdwg.org/dwc/terms/eventDate",
-        "titles" : "2000",
+        "titles" : "year",
         "datatype" : "string"
       } ]
     }
