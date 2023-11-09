@@ -9,6 +9,7 @@
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
     "url" : "https://docs.google.com/spreadsheets/d/1nX9EnLjKKVUHnv5Iwtcvwt8l-oc3qcytVxxPrPXk3Yc/export?format=tsv",
+    "shouldResolveReferences": true,
     "sourceTaxonName": "Homo sapiens",
     "sourceTaxonId" : "NCBI:9606",
     "sourceBodyPartName" : "hand",
