@@ -1,4 +1,4 @@
-[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/jeught2021)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/jeught2021)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/jeught2021)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/jeught2021)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
